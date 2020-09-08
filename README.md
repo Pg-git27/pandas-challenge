@@ -1,5 +1,5 @@
 # pandas-challenge
-Pandas - PyCitySchools.
+Pandas - PyCitySchools
 Analysis:
 
 1. Charter schools have a higher percent passing reading, percent passing math, and percent overall passing rate than District schools.
